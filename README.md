@@ -15,7 +15,7 @@ Frontend - React web app that visualy demonstrates Chain Replication process.
 ## Usage
 ```bash
 # clone a repo
-git clone https://github.com/NejcDr/Chain_Algorithm
+git clone https://github.com/NejcDr/Chain-Replication-Visualization
 
 # Start backend
 cd Backend
