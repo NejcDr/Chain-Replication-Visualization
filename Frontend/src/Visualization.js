@@ -1169,7 +1169,7 @@ const Visualization = () => {
       <div className="button-div">
         <button id="fetchButton" className="button-conf" onClick={handleConfigButton} disabled={Loaded}>Get configuration</button>
         <button id="clockButton" className="button-clock" onClick={handleStepButton} disabled={!Loaded}>Next Step</button>
-        <label className="input-checkbox-container">Auto-clock
+        <label className="input-checkbox-container">Auto-step
           <input id="clockAuto" type="checkbox" className="input-checkbox" onChange={handleStepAuto} disabled={!Loaded}/>
           <span className="input-checkbox-checkmark"></span>
         </label>
